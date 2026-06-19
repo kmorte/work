@@ -1,0 +1,3 @@
+-En cap lloc hi ha autoescuela.activa = False
+	Al crear-se una nova autoescola, s'asigna True.
+	No es poden eliminar
